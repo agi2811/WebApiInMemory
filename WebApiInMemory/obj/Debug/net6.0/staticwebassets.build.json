@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ugP/CZ1LLii0JDpTbE4KfwwEi233vrA6nAUvFE7t7Nw=",
+  "Source": "WebApiInMemory",
+  "BasePath": "_content/WebApiInMemory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
